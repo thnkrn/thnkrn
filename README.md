@@ -10,7 +10,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Other   4 mins          ████████████████████████▒   97.38 % 
+Go         16 mins         ███████████████████▓░░░░░   78.54 % 
+Other      4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.80 % 
 ```
 <!--END_SECTION:waka-->
 
