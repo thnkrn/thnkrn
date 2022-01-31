@@ -17,6 +17,4 @@ Other      4 mins          █████▒░░░░░░░░░░░�
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnkrn&layout=compact&hide=html&theme=tokyonight" alt="Most Used Languages" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=thnkrn&show_icons=true&count_private=true&theme=tokyonight" alt="Wakatime Stats" /></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thnkrn&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" /></p>
