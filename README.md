@@ -10,11 +10,13 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Go           11 hrs 40 mins  █████████████████████▓░░░   86.93 % 
-Makefile     45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Total: 14 hrs 3 mins
+
+Go         12 hrs 52 mins  ██████████████████████░░░   88.40 % 
+Makefile   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Other      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Markdown   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
