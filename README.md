@@ -10,13 +10,13 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Total: 14 hrs 3 mins
+Total: 11 hrs 34 mins
 
-Go         12 hrs 52 mins  ██████████████████████░░░   88.40 % 
-Makefile   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Other      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Markdown   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Go         10 hrs 54 mins  ██████████████████████▓░░   90.86 % 
+Other      26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Makefile   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Markdown   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
 
