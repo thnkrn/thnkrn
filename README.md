@@ -9,11 +9,13 @@
 
 **This week I spent my time on**
 <!--START_SECTION:waka-->
+
 ```text
-Go      1 hr 53 mins    ██████████████████████▒░░   89.91 % 
-Bash    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Other   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Go      1 hr 53 mins    ██████████████████████▒░░   89.91 %
+Bash    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Other   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnkrn&layout=compact&hide=html&theme=tokyonight" alt="Most Used Languages" /></p>
