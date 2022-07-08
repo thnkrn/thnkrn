@@ -16,10 +16,11 @@ Lastly, I'm a fast learner and open to every avenue that comes to me. And I'm ea
 <!--START_SECTION:waka-->
 
 ```text
-Go           2 hrs 5 mins    ██████████████▓░░░░░░░░░░   58.37 %
-Properties   1 hr 27 mins    ██████████▒░░░░░░░░░░░░░░   40.77 %
+Go           1 hr 56 mins    ████████████████████░░░░░   79.37 %
+Properties   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
