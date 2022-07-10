@@ -1,4 +1,4 @@
-<h1 align="center">Cheers!, I'm Thanakorn Ariyagusolsuthi</h1>
+<h1 align="center">Cheers!,</h1>
 
 **This week I spent my time on**
 <!--START_SECTION:waka-->
