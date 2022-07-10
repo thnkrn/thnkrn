@@ -16,12 +16,12 @@ Lastly, I'm a fast learner and open to every avenue that comes to me. And I'm ea
 <!--START_SECTION:waka-->
 
 ```text
-Go           3 hrs 6 mins    ███████████████████▓░░░░░   79.02 %
-Docker       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-YAML         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Markdown     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Go           3 hrs 6 mins    ███████████████████░░░░░░   76.54 %
+Docker       22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+YAML         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Markdown     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
