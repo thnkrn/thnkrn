@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go         2 hrs 4 mins    ████████████████████████▒   96.87 %
-YAML       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
