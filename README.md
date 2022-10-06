@@ -4,9 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           3 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.42 %
-Terraform    2 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
-Other        1 hr 50 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Terraform    4 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.86 %
+Go           3 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
+Other        1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
 ```
 
 <!--END_SECTION:waka-->
