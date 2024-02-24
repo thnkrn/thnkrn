@@ -4,9 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 20 mins   ████████████████████████▒   97.24 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   3 hrs 48 mins   █████████████████████████   99.63 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
