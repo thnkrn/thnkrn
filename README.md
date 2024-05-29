@@ -4,7 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   19 mins         █████████████████████████   100.00 %
+C#           1 hr 8 mins     ████████████████████▒░░░░   80.99 %
+TypeScript   16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
 ```
 
 <!--END_SECTION:waka-->
